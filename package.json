@@ -1,0 +1,14 @@
+{
+  "name": "clothmart",
+  "version": "1.0.0",
+  "description": "clothmart",
+  "main": "index.js",
+  "repository": "https://github.com/OlatunjiYso/clothmart.git",
+  "author": "Olatunji Yusuf <olatunjiyso@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["packages/*"],
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
