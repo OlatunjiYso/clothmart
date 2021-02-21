@@ -8,6 +8,9 @@
   "license": "MIT",
   "private": true,
   "workspaces": ["packages/*"],
+  "scripts": {
+    "dev:admin": "yarn workspace @cloth-mart/admin dev"
+  },
   "devDependencies": {
     "lerna": "^3.22.1"
   }
